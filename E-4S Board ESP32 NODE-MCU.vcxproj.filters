@@ -44,5 +44,8 @@
     <ClInclude Include="Temperature_LM75_Derived.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="__vm\.E-4S-Board-ESP32-NODE-MCU.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
